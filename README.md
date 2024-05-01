@@ -3,7 +3,7 @@
 #### 🔭 Currently Exploring
   - 💻 Front-End Development
   - 📊 Data Visualization
-  - 🤖 Artificial Intelligence
+  - ☕️ Java Development 
 
 #### Education
 -  🎓 Bachelor of Computer Science @ Old Dominion University
