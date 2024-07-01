@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hey There 👋
 
 #### 🔭 Currently Exploring
-  - 💻 Front-End Development
-  - 📊 Data Visualization
-  - ☕️ Java Development 
+  - 💻 Full-Stack Development
+  - 📊 Data Science
+  - ☕️ Java Development
 
-#### Education
+#### :classical_building: Education
 -  🎓 Bachelor of Computer Science @ Old Dominion University
 -  🎓 Associate of Computer Science @ Tidewater Community College
