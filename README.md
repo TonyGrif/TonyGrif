@@ -3,12 +3,11 @@
 #### 🔭 Currently Exploring
   - 💻 Full-Stack Development
   - 📊 Data Science
-  - ☕️ Java Development
 
-#### Current Backlog
-  - 🤖 [15-Puzzle Solver](https://github.com/TonyGrif/15-puzzle-solver)
+#### Current Backlog 
   - 👾 [Space Station Zebra](https://github.com/TonyGrif/space-station-zebra)
-  - 📰 [CLI PDF Finder](https://github.com/TonyGrif/pdf-finder)
+  - 📈 [Billboard Hot 100 Scraper](https://github.com/TonyGrif/billboard)
+  - 🤖 [15-Puzzle Solver](https://github.com/TonyGrif/15-puzzle-solver)
 
 #### :classical_building: Education
 -  🎓 Bachelor of Computer Science @ Old Dominion University
