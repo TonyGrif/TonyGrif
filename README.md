@@ -1,5 +1,8 @@
 <h1 align="center"> Hey There 👋 </h1>
 
+#### Languages
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/TonyGrif?tab=repositories&q=&type=&language=python&sort=)
+
 #### Setup
 [![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://github.com/TonyGrif/nixos)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/TonyGrif/GriffiNvim)
